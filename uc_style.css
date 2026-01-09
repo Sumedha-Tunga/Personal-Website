@@ -1,0 +1,40 @@
+body {
+    background: #000000;      
+    font-family: 'Courier New', monospace;
+}
+
+h1 {text-align: center; font-family: 'Trebuchet MS'; color: #fc0097; font-size:500%;}
+h3 {text-align: center; color: #00fc22; font-size:150%; padding-right: 20%; padding-left: 20%;}
+p {color:#d2fc00; font-size:200%; text-align: center; padding-right: 20%; padding-left: 20%;}
+
+.button {
+    background-color: #000000;
+    border: 2px solid #0000ff;
+    padding: 5px 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+    margin: auto;
+    cursor: pointer;
+    font-family: monospace;
+    border-radius: 50px;
+}
+
+a:link {
+    color: #0378ff;
+    background-color: transparent;
+}
+a:visited {
+    color: #0378ff;
+    background-color: transparent;
+}
+a:hover {
+    color: #0378ff;
+    background-color: transparent;
+    text-decoration: none;
+}
+a:active {
+    color: #0378ff;
+    background-color: transparent;
+    text-decoration: none;
+}
